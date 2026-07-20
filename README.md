@@ -3,12 +3,6 @@
   <img src="images/gui.png" width="800">
 </p>
 
-This repository contains a fixed version...
-
-This repository contains a fixed version...
-
-This repository contains a fixed version...
-
 This repository contains a fixed version of **forza-wheel-leds** for the Logitech G923 PlayStation/PC edition.
 
 ## What's fixed?
