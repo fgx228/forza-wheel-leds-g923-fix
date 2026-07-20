@@ -1,3 +1,7 @@
+![Windows](https://img.shields.io/badge/Windows-11-blue)
+![Python](https://img.shields.io/badge/Python-3.12-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # Logitech G923 (PlayStation) RPM LED Fix
 <p align="center">
   <img src="images/gui.png" width="800">
