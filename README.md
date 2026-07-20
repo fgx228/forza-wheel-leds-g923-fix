@@ -1,8 +1,11 @@
 # Logitech G923 (PlayStation) RPM LED Fix
+# Logitech G923 (PlayStation) RPM LED Fix
 
 <p align="center">
   <img src="images/gui.png" width="800">
 </p>
+
+This repository contains a fixed version...
 
 This repository contains a fixed version...
 
