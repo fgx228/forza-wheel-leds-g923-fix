@@ -57,5 +57,4 @@ This project remains licensed under the MIT License.
 
 
 
-
 Special thanks to the original project authors for creating the foundation that made this fix possible.
