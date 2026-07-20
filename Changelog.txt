@@ -1,0 +1,8 @@
+## Changelog
+
+### v1.1 - G923 PlayStation Fix
+
+- Fixed HID device selection for Logitech G923 PlayStation edition
+- RPM LEDs now work correctly
+- Added launcher without console window
+- Added Windows executable
