@@ -21,6 +21,18 @@ This version opens the correct interface:
 
 As a result, the RPM LEDs now work correctly in Forza Horizon 5.
 
+## Features
+
+✅ Logitech G923 PlayStation support
+
+✅ Automatic HID detection
+
+✅ Standalone Windows executable
+
+✅ No Python required
+
+✅ Open source
+
 ## Tested with
 
 - Logitech G923 PlayStation/PC
